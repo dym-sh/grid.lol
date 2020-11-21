@@ -2,17 +2,27 @@
 
 > ui-design tool: layout, grids, tables, wireframes
 
-
-### grid-presets
-- 12-col 8-rows for 1024x768 (ipad)
-- 4x4
-- 4-panel comic (auto-transform into slide-gallery)
+- utilizes css grid and flex-box
+- export html, png, pdf...
 
 
-<a href='preview.png'><img height=100 border=2 align='right' alt='preview' src='preview.png'></a>
+## grid-presets
+
+### 12-col 8-rows web-page
+- 1920×1080 (1080p)
+- 1280×720 (720p)
+- 1024x768 (ipad)
+- 640x960 (iphone)
+
+### 4x4
+- square with 16 smaller squares
+
+### 4-panel comic
+- auto-transform into slide-gallery
+
+
 ## preview
-- [preview.html](preview.html)
-- https://codepen.io/dym-sh/pen/<TBD>/left/?editors=0100
+![preview](preview.png)
 
 
 ## mirrors
