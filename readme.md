@@ -6,6 +6,16 @@
 - export html, png, pdf...
 
 
+## features
+- grid
+- snap-to-lines
+- typography
+- ui
+- layout
+- wireframe
+- export html+css
+
+
 ## grid-presets
 
 ### 12-col 8-rows web-page
@@ -22,14 +32,14 @@
 
 
 ## preview
-![preview](preview.png)
+![preview](./preview.png)
 
 
 ## mirrors
 - https://github.com/dym-sh/grid.lol
 - https://gitlab.com/dym-sh/grid.lol
 - https://dym.sh/grid.lol
-- hyper://4263da0e068fbff8270349149fb153cc924ef66a2338915161115984157ea7cc /[?](https://beakerbrowser.com)
+- hyper://___ /[?](https://beakerbrowser.com)
 
 
 ## license
